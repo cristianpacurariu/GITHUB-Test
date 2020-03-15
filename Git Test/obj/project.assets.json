@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRISTI\\Desktop\\test\\GIT TEST\\Git Test\\Git Test\\Git Test.csproj",
+      "projectUniqueName": "C:\\Users\\CRISTI\\Desktop\\test\\GIT TEST\\Git Test\\Git Test.csproj",
       "projectName": "Git Test",
-      "projectPath": "C:\\Users\\CRISTI\\Desktop\\test\\GIT TEST\\Git Test\\Git Test\\Git Test.csproj",
+      "projectPath": "C:\\Users\\CRISTI\\Desktop\\test\\GIT TEST\\Git Test\\Git Test.csproj",
       "packagesPath": "C:\\Users\\CRISTI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRISTI\\Desktop\\test\\GIT TEST\\Git Test\\Git Test\\obj\\",
+      "outputPath": "C:\\Users\\CRISTI\\Desktop\\test\\GIT TEST\\Git Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
